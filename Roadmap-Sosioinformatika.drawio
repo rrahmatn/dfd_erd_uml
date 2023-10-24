@@ -1,23 +1,130 @@
-<mxfile host="app.diagrams.net" modified="2023-10-23T19:54:37.674Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 OPR/103.0.0.0" etag="cw7SgscuW1wGF_DQMuu2" version="22.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-23T20:05:24.241Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 OPR/103.0.0.0" etag="zj79X5N-jZv_XbUS0ncD" version="22.0.6" type="github">
   <diagram name="Page-1" id="x0ZHJoo8p487G2uLqanZ">
-    <mxGraphModel dx="826" dy="509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1502" dy="925" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="7Y25r95ySrGOq59f17NB-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=6;" edge="1" parent="1" source="7Y25r95ySrGOq59f17NB-6" target="7Y25r95ySrGOq59f17NB-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7Y25r95ySrGOq59f17NB-6" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="10" width="360" height="280" as="geometry" />
+        </mxCell>
         <mxCell id="7Y25r95ySrGOq59f17NB-1" value="Dasar Pemograman" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7Y25r95ySrGOq59f17NB-2" value="Logika Pemograman" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="90" width="100" height="60" as="geometry" />
+          <mxGeometry x="276" y="90" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7Y25r95ySrGOq59f17NB-3" value="Syntaks Pemograman" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="311" y="163" width="100" height="60" as="geometry" />
+          <mxGeometry x="281" y="163" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7Y25r95ySrGOq59f17NB-4" value="Bahasa Pemgraman" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="85" width="100" height="60" as="geometry" />
+          <mxGeometry x="64" y="85" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7Y25r95ySrGOq59f17NB-5" value="Bahasa Pemgraman" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="28" y="158" width="100" height="60" as="geometry" />
+        <mxCell id="7Y25r95ySrGOq59f17NB-5" value="Syncrounus / Asyncronus" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="61" y="158" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7Y25r95ySrGOq59f17NB-7" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="355" width="360" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="7Y25r95ySrGOq59f17NB-8" value="Algortitma dan Pemograman" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="161" y="478" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7Y25r95ySrGOq59f17NB-9" value="Logika Pemograman" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="277" y="438" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7Y25r95ySrGOq59f17NB-10" value="Pengondisian dan Perulanangan" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="282" y="511" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7Y25r95ySrGOq59f17NB-11" value="Pemahaman Algortima&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="434" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7Y25r95ySrGOq59f17NB-12" value="Pemahaman cara kerja pemograman" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="500" width="108" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="7Y25r95ySrGOq59f17NB-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=9;" edge="1" parent="1" source="7Y25r95ySrGOq59f17NB-16" target="7Y25r95ySrGOq59f17NB-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="863.0000000000002" y="508" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7Y25r95ySrGOq59f17NB-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;strokeWidth=7;" edge="1" parent="1" source="7Y25r95ySrGOq59f17NB-16" target="7Y25r95ySrGOq59f17NB-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7Y25r95ySrGOq59f17NB-16" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="368" width="360" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="7Y25r95ySrGOq59f17NB-17" value="Management Basis data" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="571" y="491" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7Y25r95ySrGOq59f17NB-18" value="SQL dan NoSQL" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="687" y="451" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7Y25r95ySrGOq59f17NB-19" value="Cara Kerja dan cara pakai" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="692" y="524" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7Y25r95ySrGOq59f17NB-20" value="Atribut dan Value" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="447" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7Y25r95ySrGOq59f17NB-21" value="Jenis Jenis Basisdata" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="513" width="108" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="7Y25r95ySrGOq59f17NB-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.028;entryY=0.454;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=9;" edge="1" parent="1" source="7Y25r95ySrGOq59f17NB-7" target="7Y25r95ySrGOq59f17NB-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7Y25r95ySrGOq59f17NB-23" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="895" y="368" width="360" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="7Y25r95ySrGOq59f17NB-24" value="Pengembangan Aplikasi Web" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1014" y="491" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7Y25r95ySrGOq59f17NB-25" value="Internet" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="451" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7Y25r95ySrGOq59f17NB-26" value="API" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1135" y="524" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7Y25r95ySrGOq59f17NB-27" value="BackEnd" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="911" y="447" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7Y25r95ySrGOq59f17NB-28" value="Framework" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="903" y="513" width="108" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="7Y25r95ySrGOq59f17NB-30" value="Frontend" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="387" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7Y25r95ySrGOq59f17NB-31" value="Binding" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="387" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7Y25r95ySrGOq59f17NB-32" value="Library" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="990" y="575" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7Y25r95ySrGOq59f17NB-33" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="648" width="360" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="7Y25r95ySrGOq59f17NB-34" value="Pengembangan Aplikasi Mobile" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="799" y="771" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7Y25r95ySrGOq59f17NB-35" value="Internet" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="722" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7Y25r95ySrGOq59f17NB-36" value="API" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="911" y="820" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7Y25r95ySrGOq59f17NB-38" value="Framework" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="691" y="722" width="108" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="7Y25r95ySrGOq59f17NB-39" value="Frontend" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="755" y="667" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7Y25r95ySrGOq59f17NB-40" value="Binding" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="865" y="667" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7Y25r95ySrGOq59f17NB-41" value="Library" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="699" y="810" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7Y25r95ySrGOq59f17NB-43" value="Class" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="803" y="864" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
