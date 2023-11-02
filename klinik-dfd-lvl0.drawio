@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2023-11-02T05:57:54.458Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 OPR/103.0.0.0" etag="chOWzy6HOD0G-bANnUsC" version="22.0.8" type="github">
-  <diagram name="Page-1" id="9xVmMPkPxLvHN0yvDcWq">
+<mxfile host="app.diagrams.net" modified="2023-11-02T06:13:20.015Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 OPR/103.0.0.0" etag="M_sGtBLRhrfaryLPaOCf" version="22.0.8" type="github" pages="2">
+  <diagram name="dfd-lvl-0" id="9xVmMPkPxLvHN0yvDcWq">
     <mxGraphModel dx="1624" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -69,6 +69,56 @@
         </mxCell>
         <mxCell id="ojHpJRG1jIA3WTuo10---24" value="&lt;font color=&quot;#000000&quot;&gt;Informasi pasien&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="435" y="238" width="110" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="3tcK_7p0iXK4AlxgL7ZR" name="dfd-lvl1">
+    <mxGraphModel dx="774" dy="1584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OjCqZnigaYSy-PzzyRmF-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#182E3E;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="142" as="sourcePoint" />
+            <mxPoint x="340" y="142" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="khfob76Xx4wrm1tSwPbG-1" value="Pasien" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#EEEEEE;fontColor=#FFFFFF;fillColor=#56517E;" vertex="1" parent="1">
+          <mxGeometry x="50" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OjCqZnigaYSy-PzzyRmF-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;strokeColor=#182E3E;" edge="1" parent="1" source="OjCqZnigaYSy-PzzyRmF-1" target="OjCqZnigaYSy-PzzyRmF-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OjCqZnigaYSy-PzzyRmF-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#182E3E;" edge="1" parent="1" source="OjCqZnigaYSy-PzzyRmF-1" target="OjCqZnigaYSy-PzzyRmF-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OjCqZnigaYSy-PzzyRmF-1" value="Resepsionis" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#EEEEEE;fontColor=#FFFFFF;fillColor=#56517E;" vertex="1" parent="1">
+          <mxGeometry x="340" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OjCqZnigaYSy-PzzyRmF-3" value="Medical History&lt;br&gt;Database" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeColor=#EEEEEE;fontColor=#FFFFFF;fillColor=#56517E;" vertex="1" parent="1">
+          <mxGeometry x="760" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OjCqZnigaYSy-PzzyRmF-7" value="&lt;font color=&quot;#000000&quot;&gt;DAFTAR&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="210" y="110" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OjCqZnigaYSy-PzzyRmF-8" value="&lt;font color=&quot;#000000&quot;&gt;Membuat Medical History kosong untuk pasien&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="471" y="150" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OjCqZnigaYSy-PzzyRmF-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;strokeColor=#182E3E;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OjCqZnigaYSy-PzzyRmF-10" target="OjCqZnigaYSy-PzzyRmF-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="110" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OjCqZnigaYSy-PzzyRmF-10" value="Pasien Database" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeColor=#EEEEEE;fontColor=#FFFFFF;fillColor=#56517E;" vertex="1" parent="1">
+          <mxGeometry x="340" y="-100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OjCqZnigaYSy-PzzyRmF-12" value="&lt;font color=&quot;#000000&quot;&gt;Akses data pasien /Membuat data pasien baru&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="90" y="20" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OjCqZnigaYSy-PzzyRmF-14" value="&lt;font color=&quot;#000000&quot;&gt;Informasi pasen&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="440" y="30" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
