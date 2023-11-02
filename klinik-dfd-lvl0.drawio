@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-02T06:35:04.304Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 OPR/103.0.0.0" etag="Xgnv85fKR6PikggliG2Q" version="22.0.8" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-11-02T06:37:20.156Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 OPR/103.0.0.0" etag="8r_-FcNVXo21hzG--kPu" version="22.0.8" type="github" pages="6">
   <diagram name="dfd-lvl-0" id="9xVmMPkPxLvHN0yvDcWq">
-    <mxGraphModel dx="1624" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1624" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -74,7 +74,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3tcK_7p0iXK4AlxgL7ZR" name="dfd-lvl1 proses 1">
-    <mxGraphModel dx="774" dy="1584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="774" dy="1550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -124,7 +124,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="sfTdT7dE8QMPoV5CAsvK" name="dfd-lvl1-proses2">
-    <mxGraphModel dx="1624" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1624" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -165,7 +165,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3jDdWsGj-3vfPoNdzF7c" name="dfd-lvl1-proses-3">
-    <mxGraphModel dx="774" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="774" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -273,7 +273,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="SWf3vfRLgb16jR9gpGB4" name="Page-6">
+  <diagram id="SWf3vfRLgb16jR9gpGB4" name="dfd-lvl2">
     <mxGraphModel dx="774" dy="1550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -377,8 +377,8 @@
         <mxCell id="d728ytWBg4OPn-31z3xF-40" value="&lt;font color=&quot;#000000&quot;&gt;Akses Informasi&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="830" y="10" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="d728ytWBg4OPn-31z3xF-42" value="&lt;font color=&quot;#000000&quot;&gt;Update Informasi dengan memberikan status selesai&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="450" y="30" width="300" height="30" as="geometry" />
+        <mxCell id="d728ytWBg4OPn-31z3xF-42" value="&lt;font color=&quot;#000000&quot;&gt;Update Informasi dengan memberikan status selesai&amp;nbsp;&lt;br&gt;serta parsing data id_farmasi&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="445" y="25" width="310" height="40" as="geometry" />
         </mxCell>
         <mxCell id="d728ytWBg4OPn-31z3xF-44" value="Klinik Database" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeColor=#EEEEEE;fontColor=#FFFFFF;fillColor=#56517E;" vertex="1" parent="1">
           <mxGeometry x="1160" y="-100" width="120" height="60" as="geometry" />
