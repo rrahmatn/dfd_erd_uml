@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-02T12:24:58.752Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 OPR/103.0.0.0" etag="LgSLN0vlSS9249FPborj" version="22.0.8" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-11-02T12:25:51.446Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 OPR/103.0.0.0" etag="DDR_Fc-40vjMi1TFS5Nh" version="22.0.8" type="github" pages="7">
   <diagram name="Page-1" id="qVesWyHWb5Ft3fB6Rq50">
     <mxGraphModel dx="774" dy="1584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -165,7 +165,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="iTt2FC-XOWQ_ThO0nhVo" name="activity-register">
-    <mxGraphModel dx="774" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="774" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -193,25 +193,25 @@
         <mxCell id="Onn0nhRvhQEDrITwp2WX-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Onn0nhRvhQEDrITwp2WX-7" target="Onn0nhRvhQEDrITwp2WX-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Onn0nhRvhQEDrITwp2WX-7" value="Mengirim Email" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="Onn0nhRvhQEDrITwp2WX-7" value="send a email" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="395" y="420" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Onn0nhRvhQEDrITwp2WX-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Onn0nhRvhQEDrITwp2WX-8" target="Onn0nhRvhQEDrITwp2WX-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Onn0nhRvhQEDrITwp2WX-8" value="Menerima Email" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="Onn0nhRvhQEDrITwp2WX-8" value="receive email" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="615" y="420" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Onn0nhRvhQEDrITwp2WX-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Onn0nhRvhQEDrITwp2WX-9" target="Onn0nhRvhQEDrITwp2WX-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Onn0nhRvhQEDrITwp2WX-9" value="Pembuatan Akun" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="Onn0nhRvhQEDrITwp2WX-9" value="created account" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="615" y="510" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Onn0nhRvhQEDrITwp2WX-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Onn0nhRvhQEDrITwp2WX-10" target="Onn0nhRvhQEDrITwp2WX-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Onn0nhRvhQEDrITwp2WX-10" value="Menerima Email Berupa Informasi" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="Onn0nhRvhQEDrITwp2WX-10" value="recieve email about account" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="395" y="510" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Onn0nhRvhQEDrITwp2WX-11" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
