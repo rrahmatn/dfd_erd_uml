@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-23T01:16:12.261Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 OPR/103.0.0.0" etag="JErGM6a49k9AdPkAUvlh" version="22.1.3" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-11-23T01:19:39.824Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 OPR/103.0.0.0" etag="FLp7belvF9wrsxzVQB6z" version="22.1.3" type="github" pages="7">
   <diagram name="Page-1" id="qVesWyHWb5Ft3fB6Rq50">
     <mxGraphModel dx="878" dy="1584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -183,9 +183,9 @@
           <mxGeometry x="560" y="311" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Bsh_nTRabUMkJ_BrNozn-13" value="Access Medical history" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="950" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="920" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Bsh_nTRabUMkJ_BrNozn-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.225;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Bsh_nTRabUMkJ_BrNozn-1" target="Bsh_nTRabUMkJ_BrNozn-13">
+        <mxCell id="Bsh_nTRabUMkJ_BrNozn-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Bsh_nTRabUMkJ_BrNozn-1" target="Bsh_nTRabUMkJ_BrNozn-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Bsh_nTRabUMkJ_BrNozn-18" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.783;entryY=0.943;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="OpJ7xEw9bV-JXhkV_dxZ-21" target="Bsh_nTRabUMkJ_BrNozn-15">
@@ -234,7 +234,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OpJ7xEw9bV-JXhkV_dxZ-16" value="Create New Empty Medical history" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="690" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="680" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Bsh_nTRabUMkJ_BrNozn-41" value="&amp;lt;&amp;lt;Iinclude&amp;gt;&amp;gt;" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.425;entryY=0.021;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Bsh_nTRabUMkJ_BrNozn-8" target="OpJ7xEw9bV-JXhkV_dxZ-10">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -264,9 +264,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Bsh_nTRabUMkJ_BrNozn-46" value="EDit Profile Clinic" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="410" width="120" height="60" as="geometry" />
+          <mxGeometry x="350" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Bsh_nTRabUMkJ_BrNozn-48" value="&amp;lt;&amp;lt;Iinclude&amp;gt;&amp;gt;" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Bsh_nTRabUMkJ_BrNozn-46" target="OpJ7xEw9bV-JXhkV_dxZ-10">
+        <mxCell id="Bsh_nTRabUMkJ_BrNozn-48" value="&amp;lt;&amp;lt;Iinclude&amp;gt;&amp;gt;" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Bsh_nTRabUMkJ_BrNozn-46" target="OpJ7xEw9bV-JXhkV_dxZ-10">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="527" y="422" as="sourcePoint" />
             <mxPoint x="608" y="593" as="targetPoint" />
